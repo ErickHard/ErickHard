@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @ErickHard
 - 👀 Estou interessado em vagas de desenvolvedor web php jr.
-- 🌱 No momento estou aprendendo php com  my sql
+- 🌱 No momento estou aprendendo php, my sql e javascript.
 
 
 <!---
