@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @ErickHard
 - 👀 Estou interessado em vagas de desenvolvedor jr.
-- 🌱 No momento estou aprendendo, HTML, CSS, Javascript, Bootstrap, Sass, React, NodeJS+Mongo-DB, TypeScript, SQL+NodeJS, Python, Git e Github.
+- 🌱 No momento estou Fazendo o curso ProgramadorBR Full-Stack! Aprendendo, HTML, CSS, Javascript, Bootstrap, Sass, React, NodeJS+Mongo-DB, TypeScript, SQL+NodeJS, Python, FireBase, Jquery, Node.js, Node, React.js, React, Git e Github.
 
 
 <!---
