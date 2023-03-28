@@ -16,6 +16,8 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/256/python.png" />
+ <img align="center" height="45" width="50" src="https://img.icons8.com/color/256/php.png" />
+ <img align="center" height="45" width="50" src="https://img.icons8.com/color/256/my-sql.png" />
 
 
 </div>
