@@ -1,10 +1,12 @@
 #  Oi sou Erick Hard, programador full stack JR !
+
 <div align="center">
   <a href="https://github.com/ErickHard">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=erickhard&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhard&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-##  Tecnologias
+
+ ## Tecnologias
 <div style="display:inline-block">
 
 <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
